@@ -1,0 +1,539 @@
+2017-07-15 13:59:11,942 - DEBUG - POST http://127.0.0.1:54019/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 13:59:12,817 - DEBUG - Finished Request
+2017-07-15 13:59:12,817 - DEBUG - POST http://127.0.0.1:54019/session/DFB13365-A903-4C78-9F77-EDF99BB86205/url {"url": "https://imgur.com", "sessionId": "DFB13365-A903-4C78-9F77-EDF99BB86205"}
+2017-07-15 13:59:16,918 - DEBUG - Finished Request
+2017-07-15 14:02:08,767 - DEBUG - POST http://127.0.0.1:54094/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:02:09,329 - DEBUG - Finished Request
+2017-07-15 14:02:09,330 - DEBUG - POST http://127.0.0.1:54094/session/4DF20365-3882-4E65-98D0-2E279EB633CE/url {"url": "https://imgur.com", "sessionId": "4DF20365-3882-4E65-98D0-2E279EB633CE"}
+2017-07-15 14:02:16,518 - DEBUG - Finished Request
+2017-07-15 14:02:20,519 - DEBUG - POST http://127.0.0.1:54094/session/4DF20365-3882-4E65-98D0-2E279EB633CE/element {"using": "class name", "value": "icon-search", "sessionId": "4DF20365-3882-4E65-98D0-2E279EB633CE"}
+2017-07-15 14:02:20,527 - DEBUG - Finished Request
+2017-07-15 14:02:20,527 - DEBUG - Tried to find: icon-search
+1times.
+2017-07-15 14:02:20,527 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="4DF20365-3882-4E65-98D0-2E279EB633CE", element="node-1E42EFA8-AC7C-49FF-9867-63165C60761B")>
+Clicking search!
+2017-07-15 14:02:20,527 - DEBUG - POST http://127.0.0.1:54094/session/4DF20365-3882-4E65-98D0-2E279EB633CE/element/node-1E42EFA8-AC7C-49FF-9867-63165C60761B/click {"id": "node-1E42EFA8-AC7C-49FF-9867-63165C60761B", "sessionId": "4DF20365-3882-4E65-98D0-2E279EB633CE"}
+2017-07-15 14:02:20,546 - DEBUG - Finished Request
+2017-07-15 14:02:20,547 - DEBUG - POST http://127.0.0.1:54094/session/4DF20365-3882-4E65-98D0-2E279EB633CE/element/node-1E42EFA8-AC7C-49FF-9867-63165C60761B/value {"text": "hello world", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d"], "id": "node-1E42EFA8-AC7C-49FF-9867-63165C60761B", "sessionId": "4DF20365-3882-4E65-98D0-2E279EB633CE"}
+2017-07-15 14:02:20,716 - DEBUG - Finished Request
+2017-07-15 14:02:41,162 - DEBUG - POST http://127.0.0.1:54141/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:02:41,713 - DEBUG - Finished Request
+2017-07-15 14:02:41,713 - DEBUG - POST http://127.0.0.1:54141/session/59F84B45-786E-4552-846E-7D836E42908F/url {"url": "https://imgur.com", "sessionId": "59F84B45-786E-4552-846E-7D836E42908F"}
+2017-07-15 14:02:49,460 - DEBUG - Finished Request
+2017-07-15 14:02:53,465 - DEBUG - POST http://127.0.0.1:54141/session/59F84B45-786E-4552-846E-7D836E42908F/element {"using": "class name", "value": "icon-search", "sessionId": "59F84B45-786E-4552-846E-7D836E42908F"}
+2017-07-15 14:02:53,473 - DEBUG - Finished Request
+2017-07-15 14:02:53,473 - DEBUG - Tried to find: icon-search
+1times.
+2017-07-15 14:02:53,473 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="59F84B45-786E-4552-846E-7D836E42908F", element="node-3BBA3C57-1C1C-45EF-8B53-E423D5274907")>
+Clicking search!
+2017-07-15 14:02:53,473 - DEBUG - POST http://127.0.0.1:54141/session/59F84B45-786E-4552-846E-7D836E42908F/element/node-3BBA3C57-1C1C-45EF-8B53-E423D5274907/click {"id": "node-3BBA3C57-1C1C-45EF-8B53-E423D5274907", "sessionId": "59F84B45-786E-4552-846E-7D836E42908F"}
+2017-07-15 14:02:53,487 - DEBUG - Finished Request
+2017-07-15 14:02:53,487 - DEBUG - POST http://127.0.0.1:54141/session/59F84B45-786E-4552-846E-7D836E42908F/element/node-3BBA3C57-1C1C-45EF-8B53-E423D5274907/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-3BBA3C57-1C1C-45EF-8B53-E423D5274907", "sessionId": "59F84B45-786E-4552-846E-7D836E42908F"}
+2017-07-15 14:02:53,659 - DEBUG - Finished Request
+2017-07-15 14:38:28,123 - DEBUG - POST http://127.0.0.1:54430/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:38:30,053 - DEBUG - Finished Request
+2017-07-15 14:38:30,055 - DEBUG - POST http://127.0.0.1:54430/session/D1FC8697-4274-4FB4-A3A2-E128098132EF/url {"url": "https://imgur.com", "sessionId": "D1FC8697-4274-4FB4-A3A2-E128098132EF"}
+2017-07-15 14:38:34,149 - DEBUG - Finished Request
+2017-07-15 14:38:38,160 - DEBUG - POST http://127.0.0.1:54430/session/D1FC8697-4274-4FB4-A3A2-E128098132EF/element {"using": "class name", "value": "icon-search", "sessionId": "D1FC8697-4274-4FB4-A3A2-E128098132EF"}
+2017-07-15 14:38:38,168 - DEBUG - Finished Request
+2017-07-15 14:38:38,168 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:38:38,168 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="D1FC8697-4274-4FB4-A3A2-E128098132EF", element="node-54776FB2-7FC2-4E28-A999-E19F8420DFED")>
+Clicking search!
+2017-07-15 14:38:38,168 - DEBUG - POST http://127.0.0.1:54430/session/D1FC8697-4274-4FB4-A3A2-E128098132EF/element/node-54776FB2-7FC2-4E28-A999-E19F8420DFED/click {"id": "node-54776FB2-7FC2-4E28-A999-E19F8420DFED", "sessionId": "D1FC8697-4274-4FB4-A3A2-E128098132EF"}
+2017-07-15 14:38:38,189 - DEBUG - Finished Request
+2017-07-15 14:38:38,189 - DEBUG - POST http://127.0.0.1:54430/session/D1FC8697-4274-4FB4-A3A2-E128098132EF/element/node-54776FB2-7FC2-4E28-A999-E19F8420DFED/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-54776FB2-7FC2-4E28-A999-E19F8420DFED", "sessionId": "D1FC8697-4274-4FB4-A3A2-E128098132EF"}
+2017-07-15 14:38:38,379 - DEBUG - Finished Request
+2017-07-15 14:38:57,667 - DEBUG - POST http://127.0.0.1:54481/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:38:58,245 - DEBUG - Finished Request
+2017-07-15 14:38:58,245 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/url {"url": "https://imgur.com", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:01,954 - DEBUG - Finished Request
+2017-07-15 14:39:05,957 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/element {"using": "class name", "value": "icon-search", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:05,965 - DEBUG - Finished Request
+2017-07-15 14:39:05,965 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:39:05,965 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="5FCFA389-EEB6-40F2-A35A-246555396F85", element="node-0EFEC926-781E-4932-8B44-C9971D60EDB2")>
+Clicking search!
+2017-07-15 14:39:05,965 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/element/node-0EFEC926-781E-4932-8B44-C9971D60EDB2/click {"id": "node-0EFEC926-781E-4932-8B44-C9971D60EDB2", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:05,979 - DEBUG - Finished Request
+2017-07-15 14:39:05,979 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/element/node-0EFEC926-781E-4932-8B44-C9971D60EDB2/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-0EFEC926-781E-4932-8B44-C9971D60EDB2", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:06,159 - DEBUG - Finished Request
+2017-07-15 14:39:10,160 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/elements {"using": "class name", "value": "image-list-link", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:10,169 - DEBUG - Finished Request
+2017-07-15 14:39:10,170 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:39:10,170 - DEBUG - POST http://127.0.0.1:54481/session/5FCFA389-EEB6-40F2-A35A-246555396F85/element/node-03E3F204-F341-4384-A292-3DD84ADDE267/element {"using": "css selector", "value": "a", "id": "node-03E3F204-F341-4384-A292-3DD84ADDE267", "sessionId": "5FCFA389-EEB6-40F2-A35A-246555396F85"}
+2017-07-15 14:39:10,174 - DEBUG - Finished Request
+2017-07-15 14:39:47,104 - DEBUG - POST http://127.0.0.1:54532/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:39:47,657 - DEBUG - Finished Request
+2017-07-15 14:39:47,658 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/url {"url": "https://imgur.com", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:51,358 - DEBUG - Finished Request
+2017-07-15 14:39:55,361 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/element {"using": "class name", "value": "icon-search", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:55,372 - DEBUG - Finished Request
+2017-07-15 14:39:55,372 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:39:55,373 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="BDDD4AD5-289B-44CB-B01C-35037FA27E74", element="node-A68EC14D-4F82-4DCF-973E-399AAA720193")>
+Clicking search!
+2017-07-15 14:39:55,373 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/element/node-A68EC14D-4F82-4DCF-973E-399AAA720193/click {"id": "node-A68EC14D-4F82-4DCF-973E-399AAA720193", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:55,388 - DEBUG - Finished Request
+2017-07-15 14:39:55,388 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/element/node-A68EC14D-4F82-4DCF-973E-399AAA720193/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-A68EC14D-4F82-4DCF-973E-399AAA720193", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:55,597 - DEBUG - Finished Request
+2017-07-15 14:39:59,603 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/elements {"using": "class name", "value": "image-list-link", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:59,610 - DEBUG - Finished Request
+2017-07-15 14:39:59,610 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:39:59,610 - DEBUG - POST http://127.0.0.1:54532/session/BDDD4AD5-289B-44CB-B01C-35037FA27E74/element/node-5D3B67BD-8012-4A02-B9A4-B34918D32B5E/element {"using": "css selector", "value": "a", "id": "node-5D3B67BD-8012-4A02-B9A4-B34918D32B5E", "sessionId": "BDDD4AD5-289B-44CB-B01C-35037FA27E74"}
+2017-07-15 14:39:59,615 - DEBUG - Finished Request
+2017-07-15 14:41:02,072 - DEBUG - POST http://127.0.0.1:54587/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:41:02,632 - DEBUG - Finished Request
+2017-07-15 14:41:02,632 - DEBUG - POST http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/url {"url": "https://imgur.com", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:06,654 - DEBUG - Finished Request
+2017-07-15 14:41:10,658 - DEBUG - POST http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/element {"using": "class name", "value": "icon-search", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:10,666 - DEBUG - Finished Request
+2017-07-15 14:41:10,666 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:41:10,666 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C", element="node-D2956A30-1977-49F9-AC21-9E663F03F5CE")>
+Clicking search!
+2017-07-15 14:41:10,666 - DEBUG - POST http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/element/node-D2956A30-1977-49F9-AC21-9E663F03F5CE/click {"id": "node-D2956A30-1977-49F9-AC21-9E663F03F5CE", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:10,682 - DEBUG - Finished Request
+2017-07-15 14:41:10,682 - DEBUG - POST http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/element/node-D2956A30-1977-49F9-AC21-9E663F03F5CE/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-D2956A30-1977-49F9-AC21-9E663F03F5CE", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:10,852 - DEBUG - Finished Request
+2017-07-15 14:41:14,855 - DEBUG - POST http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/elements {"using": "class name", "value": "image-list-link", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:14,863 - DEBUG - Finished Request
+2017-07-15 14:41:14,863 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:41:14,864 - DEBUG - GET http://127.0.0.1:54587/session/4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C/element/node-1CC9F338-9763-4E0E-92B6-B2734CD9B2A4/attribute/href {"name": "href", "id": "node-1CC9F338-9763-4E0E-92B6-B2734CD9B2A4", "sessionId": "4C1F4D59-492B-4A8F-8A9B-E75ADBCC123C"}
+2017-07-15 14:41:14,870 - DEBUG - Finished Request
+2017-07-15 14:42:28,933 - DEBUG - POST http://127.0.0.1:54641/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:42:29,536 - DEBUG - Finished Request
+2017-07-15 14:42:29,537 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/url {"url": "https://imgur.com", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:33,196 - DEBUG - Finished Request
+2017-07-15 14:42:37,199 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/element {"using": "class name", "value": "icon-search", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:37,206 - DEBUG - Finished Request
+2017-07-15 14:42:37,206 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:42:37,206 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="2AB1F5B3-B090-42D6-BA9D-BDE93748FA49", element="node-49CE9D37-CEBC-4F42-9444-5B4A017570B9")>
+Clicking search!
+2017-07-15 14:42:37,206 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/element/node-49CE9D37-CEBC-4F42-9444-5B4A017570B9/click {"id": "node-49CE9D37-CEBC-4F42-9444-5B4A017570B9", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:37,220 - DEBUG - Finished Request
+2017-07-15 14:42:37,220 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/element/node-49CE9D37-CEBC-4F42-9444-5B4A017570B9/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-49CE9D37-CEBC-4F42-9444-5B4A017570B9", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:37,399 - DEBUG - Finished Request
+2017-07-15 14:42:41,399 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/elements {"using": "class name", "value": "image-list-link", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:41,405 - DEBUG - Finished Request
+2017-07-15 14:42:41,406 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:42:41,406 - DEBUG - GET http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/element/node-8086BCED-8747-43E4-9E28-8CEC9F29C713/attribute/href {"name": "href", "id": "node-8086BCED-8747-43E4-9E28-8CEC9F29C713", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:41,410 - DEBUG - Finished Request
+2017-07-15 14:42:41,410 - DEBUG - POST http://127.0.0.1:54641/session/2AB1F5B3-B090-42D6-BA9D-BDE93748FA49/url {"url": "https://imgur.com/gallery/Mj5VsgT", "sessionId": "2AB1F5B3-B090-42D6-BA9D-BDE93748FA49"}
+2017-07-15 14:42:45,363 - DEBUG - Finished Request
+2017-07-15 14:47:23,071 - DEBUG - POST http://127.0.0.1:54811/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:47:23,643 - DEBUG - Finished Request
+2017-07-15 14:47:23,643 - DEBUG - POST http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/url {"url": "https://imgur.com", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:30,179 - DEBUG - Finished Request
+2017-07-15 14:47:34,184 - DEBUG - POST http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/element {"using": "class name", "value": "icon-search", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:34,193 - DEBUG - Finished Request
+2017-07-15 14:47:34,193 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:47:34,193 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="74385ABA-B5C9-4D91-83D4-53AB0CF15B65", element="node-215040F0-99D6-489E-83CB-5064FCB57E77")>
+Clicking search!
+2017-07-15 14:47:34,194 - DEBUG - POST http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/element/node-215040F0-99D6-489E-83CB-5064FCB57E77/click {"id": "node-215040F0-99D6-489E-83CB-5064FCB57E77", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:34,265 - DEBUG - Finished Request
+2017-07-15 14:47:34,266 - DEBUG - POST http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/element/node-215040F0-99D6-489E-83CB-5064FCB57E77/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-215040F0-99D6-489E-83CB-5064FCB57E77", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:34,446 - DEBUG - Finished Request
+2017-07-15 14:47:38,449 - DEBUG - POST http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/elements {"using": "class name", "value": "image-list-link", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:38,456 - DEBUG - Finished Request
+2017-07-15 14:47:38,457 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:47:38,457 - DEBUG - GET http://127.0.0.1:54811/session/74385ABA-B5C9-4D91-83D4-53AB0CF15B65/element/node-1592D52F-2321-4203-B02E-41266D8BDAFF/attribute/href {"name": "href", "id": "node-1592D52F-2321-4203-B02E-41266D8BDAFF", "sessionId": "74385ABA-B5C9-4D91-83D4-53AB0CF15B65"}
+2017-07-15 14:47:38,461 - DEBUG - Finished Request
+2017-07-15 14:47:38,468 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2017-07-15 14:47:38,967 - DEBUG - https://imgur.com:443 "GET /gallery/Mj5VsgT HTTP/1.1" 200 56535
+2017-07-15 14:49:55,081 - DEBUG - POST http://127.0.0.1:54874/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:49:55,662 - DEBUG - Finished Request
+2017-07-15 14:49:55,663 - DEBUG - POST http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/url {"url": "https://imgur.com", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:03,520 - DEBUG - Finished Request
+2017-07-15 14:50:07,522 - DEBUG - POST http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/element {"using": "class name", "value": "icon-search", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:07,529 - DEBUG - Finished Request
+2017-07-15 14:50:07,529 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:50:07,529 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="023B57B3-7300-4B71-9BA7-0921D7A70625", element="node-845A1F99-B87A-4443-BB91-38E939FE4046")>
+Clicking search!
+2017-07-15 14:50:07,529 - DEBUG - POST http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/element/node-845A1F99-B87A-4443-BB91-38E939FE4046/click {"id": "node-845A1F99-B87A-4443-BB91-38E939FE4046", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:07,543 - DEBUG - Finished Request
+2017-07-15 14:50:07,543 - DEBUG - POST http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/element/node-845A1F99-B87A-4443-BB91-38E939FE4046/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-845A1F99-B87A-4443-BB91-38E939FE4046", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:07,761 - DEBUG - Finished Request
+2017-07-15 14:50:11,762 - DEBUG - POST http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/elements {"using": "class name", "value": "image-list-link", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:11,770 - DEBUG - Finished Request
+2017-07-15 14:50:11,770 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:50:11,770 - DEBUG - GET http://127.0.0.1:54874/session/023B57B3-7300-4B71-9BA7-0921D7A70625/element/node-912BC9E3-8DF6-4112-B349-4E13B237920F/attribute/href {"name": "href", "id": "node-912BC9E3-8DF6-4112-B349-4E13B237920F", "sessionId": "023B57B3-7300-4B71-9BA7-0921D7A70625"}
+2017-07-15 14:50:11,774 - DEBUG - Finished Request
+2017-07-15 14:50:11,781 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2017-07-15 14:50:12,131 - DEBUG - https://imgur.com:443 "GET /gallery/Mj5VsgT HTTP/1.1" 200 56535
+2017-07-15 14:52:45,466 - DEBUG - POST http://127.0.0.1:54935/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:52:46,037 - DEBUG - Finished Request
+2017-07-15 14:52:46,038 - DEBUG - POST http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/url {"url": "https://imgur.com", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:52:54,417 - DEBUG - Finished Request
+2017-07-15 14:52:58,422 - DEBUG - POST http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/element {"using": "class name", "value": "icon-search", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:52:58,430 - DEBUG - Finished Request
+2017-07-15 14:52:58,430 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:52:58,430 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="03A67B62-9135-4E44-AAE3-2FF97C45A77E", element="node-A116B51D-D9C6-4468-8B65-F1D9F054DBB2")>
+Clicking search!
+2017-07-15 14:52:58,430 - DEBUG - POST http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/element/node-A116B51D-D9C6-4468-8B65-F1D9F054DBB2/click {"id": "node-A116B51D-D9C6-4468-8B65-F1D9F054DBB2", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:52:58,501 - DEBUG - Finished Request
+2017-07-15 14:52:58,501 - DEBUG - POST http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/element/node-A116B51D-D9C6-4468-8B65-F1D9F054DBB2/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-A116B51D-D9C6-4468-8B65-F1D9F054DBB2", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:52:58,678 - DEBUG - Finished Request
+2017-07-15 14:53:02,682 - DEBUG - POST http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/elements {"using": "class name", "value": "image-list-link", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:53:02,689 - DEBUG - Finished Request
+2017-07-15 14:53:02,689 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:53:02,689 - DEBUG - GET http://127.0.0.1:54935/session/03A67B62-9135-4E44-AAE3-2FF97C45A77E/element/node-606F85F9-F2C6-4913-A335-0074E91D78E3/attribute/href {"name": "href", "id": "node-606F85F9-F2C6-4913-A335-0074E91D78E3", "sessionId": "03A67B62-9135-4E44-AAE3-2FF97C45A77E"}
+2017-07-15 14:53:02,693 - DEBUG - Finished Request
+2017-07-15 14:53:02,698 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2017-07-15 14:53:03,311 - DEBUG - https://imgur.com:443 "GET /gallery/Mj5VsgT HTTP/1.1" 200 56535
+2017-07-15 14:53:46,742 - DEBUG - POST http://127.0.0.1:54993/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:53:47,313 - DEBUG - Finished Request
+2017-07-15 14:53:47,313 - DEBUG - POST http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/url {"url": "https://imgur.com", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:53:55,966 - DEBUG - Finished Request
+2017-07-15 14:53:59,972 - DEBUG - POST http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/element {"using": "class name", "value": "icon-search", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:53:59,979 - DEBUG - Finished Request
+2017-07-15 14:53:59,979 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:53:59,979 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="E2EB4E42-8772-4B9E-884C-5DF5444E3C41", element="node-CD49A632-C0C2-4C9C-9036-D2C0074B5FD7")>
+Clicking search!
+2017-07-15 14:53:59,980 - DEBUG - POST http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/element/node-CD49A632-C0C2-4C9C-9036-D2C0074B5FD7/click {"id": "node-CD49A632-C0C2-4C9C-9036-D2C0074B5FD7", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:53:59,993 - DEBUG - Finished Request
+2017-07-15 14:53:59,993 - DEBUG - POST http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/element/node-CD49A632-C0C2-4C9C-9036-D2C0074B5FD7/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-CD49A632-C0C2-4C9C-9036-D2C0074B5FD7", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:54:00,211 - DEBUG - Finished Request
+2017-07-15 14:54:04,214 - DEBUG - POST http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/elements {"using": "class name", "value": "image-list-link", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:54:04,222 - DEBUG - Finished Request
+2017-07-15 14:54:04,223 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:54:04,223 - DEBUG - GET http://127.0.0.1:54993/session/E2EB4E42-8772-4B9E-884C-5DF5444E3C41/element/node-4430C6AC-CF0E-4E51-BF0D-4D3C9A376B49/attribute/href {"name": "href", "id": "node-4430C6AC-CF0E-4E51-BF0D-4D3C9A376B49", "sessionId": "E2EB4E42-8772-4B9E-884C-5DF5444E3C41"}
+2017-07-15 14:54:04,227 - DEBUG - Finished Request
+2017-07-15 14:54:04,232 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2017-07-15 14:54:04,453 - DEBUG - https://imgur.com:443 "GET /gallery/Mj5VsgT HTTP/1.1" 200 56535
+2017-07-15 14:57:37,635 - DEBUG - POST http://127.0.0.1:55064/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 14:57:38,201 - DEBUG - Finished Request
+2017-07-15 14:57:38,201 - DEBUG - POST http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/url {"url": "https://imgur.com", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:42,574 - DEBUG - Finished Request
+2017-07-15 14:57:46,579 - DEBUG - POST http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/element {"using": "class name", "value": "icon-search", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:46,589 - DEBUG - Finished Request
+2017-07-15 14:57:46,589 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 14:57:46,589 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="2DFED90D-4894-402A-8303-8600E16BABE6", element="node-2AC50F53-3B13-4CDB-9FB5-B190719F9B26")>
+Clicking search!
+2017-07-15 14:57:46,589 - DEBUG - POST http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/element/node-2AC50F53-3B13-4CDB-9FB5-B190719F9B26/click {"id": "node-2AC50F53-3B13-4CDB-9FB5-B190719F9B26", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:46,608 - DEBUG - Finished Request
+2017-07-15 14:57:46,609 - DEBUG - POST http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/element/node-2AC50F53-3B13-4CDB-9FB5-B190719F9B26/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-2AC50F53-3B13-4CDB-9FB5-B190719F9B26", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:46,790 - DEBUG - Finished Request
+2017-07-15 14:57:50,793 - DEBUG - POST http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/elements {"using": "class name", "value": "image-list-link", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:50,802 - DEBUG - Finished Request
+2017-07-15 14:57:50,802 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 14:57:50,802 - DEBUG - GET http://127.0.0.1:55064/session/2DFED90D-4894-402A-8303-8600E16BABE6/element/node-18248F92-3233-4120-92DC-A7C6E1C5BEEC/attribute/href {"name": "href", "id": "node-18248F92-3233-4120-92DC-A7C6E1C5BEEC", "sessionId": "2DFED90D-4894-402A-8303-8600E16BABE6"}
+2017-07-15 14:57:50,807 - DEBUG - Finished Request
+2017-07-15 15:00:40,404 - DEBUG - POST http://127.0.0.1:55129/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 15:00:40,985 - DEBUG - Finished Request
+2017-07-15 15:00:40,986 - DEBUG - POST http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/url {"url": "https://imgur.com", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:45,479 - DEBUG - Finished Request
+2017-07-15 15:00:49,482 - DEBUG - POST http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/element {"using": "class name", "value": "icon-search", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:49,490 - DEBUG - Finished Request
+2017-07-15 15:00:49,490 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 15:00:49,490 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="34F319CD-DCF5-4005-BCA7-9DA9EE060CCB", element="node-7B9E717C-BBCA-4FD3-B21C-671057731B7D")>
+Clicking search!
+2017-07-15 15:00:49,490 - DEBUG - POST http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/element/node-7B9E717C-BBCA-4FD3-B21C-671057731B7D/click {"id": "node-7B9E717C-BBCA-4FD3-B21C-671057731B7D", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:49,506 - DEBUG - Finished Request
+2017-07-15 15:00:49,506 - DEBUG - POST http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/element/node-7B9E717C-BBCA-4FD3-B21C-671057731B7D/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-7B9E717C-BBCA-4FD3-B21C-671057731B7D", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:49,691 - DEBUG - Finished Request
+2017-07-15 15:00:53,696 - DEBUG - POST http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/elements {"using": "class name", "value": "image-list-link", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:53,703 - DEBUG - Finished Request
+2017-07-15 15:00:53,703 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 15:00:53,703 - DEBUG - GET http://127.0.0.1:55129/session/34F319CD-DCF5-4005-BCA7-9DA9EE060CCB/element/node-F73601C7-0175-4AC1-96BB-3235EC3A33DE/attribute/href {"name": "href", "id": "node-F73601C7-0175-4AC1-96BB-3235EC3A33DE", "sessionId": "34F319CD-DCF5-4005-BCA7-9DA9EE060CCB"}
+2017-07-15 15:00:53,708 - DEBUG - Finished Request
+2017-07-15 15:00:53,714 - DEBUG - Starting new HTTPS connection (1): https
+2017-07-15 15:01:49,892 - DEBUG - POST http://127.0.0.1:55202/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 15:01:50,473 - DEBUG - Finished Request
+2017-07-15 15:01:50,473 - DEBUG - POST http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/url {"url": "https://imgur.com", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:01:54,369 - DEBUG - Finished Request
+2017-07-15 15:01:58,374 - DEBUG - POST http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/element {"using": "class name", "value": "icon-search", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:01:58,383 - DEBUG - Finished Request
+2017-07-15 15:01:58,383 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 15:01:58,384 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F", element="node-1E420FD0-630E-4C68-AEAD-6600BA176BC1")>
+Clicking search!
+2017-07-15 15:01:58,384 - DEBUG - POST http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/element/node-1E420FD0-630E-4C68-AEAD-6600BA176BC1/click {"id": "node-1E420FD0-630E-4C68-AEAD-6600BA176BC1", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:01:58,402 - DEBUG - Finished Request
+2017-07-15 15:01:58,402 - DEBUG - POST http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/element/node-1E420FD0-630E-4C68-AEAD-6600BA176BC1/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-1E420FD0-630E-4C68-AEAD-6600BA176BC1", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:01:58,577 - DEBUG - Finished Request
+2017-07-15 15:02:02,580 - DEBUG - POST http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/elements {"using": "class name", "value": "image-list-link", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:02:02,625 - DEBUG - Finished Request
+2017-07-15 15:02:02,625 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 15:02:02,625 - DEBUG - GET http://127.0.0.1:55202/session/E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F/element/node-94B9BE15-5DAB-4D40-A4DE-AF3EA5B04069/attribute/href {"name": "href", "id": "node-94B9BE15-5DAB-4D40-A4DE-AF3EA5B04069", "sessionId": "E2AB9B10-C6AE-4FB4-9E82-205CEA617C6F"}
+2017-07-15 15:02:02,705 - DEBUG - Finished Request
+2017-07-15 15:02:02,712 - DEBUG - Starting new HTTPS connection (1): imgur.com
+2017-07-15 15:02:02,954 - DEBUG - https://imgur.com:443 "GET /gallery/Mj5VsgT HTTP/1.1" 200 56535
+2017-07-15 15:05:30,788 - DEBUG - POST http://127.0.0.1:55299/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 15:05:31,382 - DEBUG - Finished Request
+2017-07-15 15:05:31,383 - DEBUG - POST http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/url {"url": "https://imgur.com", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:36,274 - DEBUG - Finished Request
+2017-07-15 15:05:40,278 - DEBUG - POST http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/element {"using": "class name", "value": "icon-search", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:40,287 - DEBUG - Finished Request
+2017-07-15 15:05:40,287 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 15:05:40,287 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="9F32F91A-FCF9-411D-95C3-B49DC9001069", element="node-65B80405-F36F-4594-8E4A-E00F3159C218")>
+Clicking search!
+2017-07-15 15:05:40,287 - DEBUG - POST http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/element/node-65B80405-F36F-4594-8E4A-E00F3159C218/click {"id": "node-65B80405-F36F-4594-8E4A-E00F3159C218", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:40,301 - DEBUG - Finished Request
+2017-07-15 15:05:40,301 - DEBUG - POST http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/element/node-65B80405-F36F-4594-8E4A-E00F3159C218/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-65B80405-F36F-4594-8E4A-E00F3159C218", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:40,487 - DEBUG - Finished Request
+2017-07-15 15:05:44,489 - DEBUG - POST http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/elements {"using": "class name", "value": "image-list-link", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:44,496 - DEBUG - Finished Request
+2017-07-15 15:05:44,496 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 15:05:44,496 - DEBUG - GET http://127.0.0.1:55299/session/9F32F91A-FCF9-411D-95C3-B49DC9001069/element/node-5B2EEABE-FAB9-4AB7-8E21-7D468F79400A/attribute/href {"name": "href", "id": "node-5B2EEABE-FAB9-4AB7-8E21-7D468F79400A", "sessionId": "9F32F91A-FCF9-411D-95C3-B49DC9001069"}
+2017-07-15 15:05:44,501 - DEBUG - Finished Request
+2017-07-15 15:06:20,024 - DEBUG - POST http://127.0.0.1:55360/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-15 15:06:20,605 - DEBUG - Finished Request
+2017-07-15 15:06:20,606 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/url {"url": "https://imgur.com", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:24,188 - DEBUG - Finished Request
+2017-07-15 15:06:28,190 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/element {"using": "class name", "value": "icon-search", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:28,198 - DEBUG - Finished Request
+2017-07-15 15:06:28,198 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-15 15:06:28,198 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="FC339B89-11BC-437F-9F07-3822C979B606", element="node-D0846EAB-F47B-4439-8763-E741AA2F7A5F")>
+Clicking search!
+2017-07-15 15:06:28,198 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/element/node-D0846EAB-F47B-4439-8763-E741AA2F7A5F/click {"id": "node-D0846EAB-F47B-4439-8763-E741AA2F7A5F", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:28,214 - DEBUG - Finished Request
+2017-07-15 15:06:28,214 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/element/node-D0846EAB-F47B-4439-8763-E741AA2F7A5F/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-D0846EAB-F47B-4439-8763-E741AA2F7A5F", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:28,373 - DEBUG - Finished Request
+2017-07-15 15:06:32,378 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/elements {"using": "class name", "value": "image-list-link", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:32,386 - DEBUG - Finished Request
+2017-07-15 15:06:32,386 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-15 15:06:32,386 - DEBUG - POST http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/element/node-B4450C7A-AA23-45A2-9DF1-156CB6EFD2B3/element {"using": "css selector", "value": "img", "id": "node-B4450C7A-AA23-45A2-9DF1-156CB6EFD2B3", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:32,390 - DEBUG - Finished Request
+2017-07-15 15:06:32,390 - DEBUG - GET http://127.0.0.1:55360/session/FC339B89-11BC-437F-9F07-3822C979B606/element/node-BECD0011-9F67-44B5-B2A0-647CC013ABAD/attribute/src {"name": "src", "id": "node-BECD0011-9F67-44B5-B2A0-647CC013ABAD", "sessionId": "FC339B89-11BC-437F-9F07-3822C979B606"}
+2017-07-15 15:06:32,394 - DEBUG - Finished Request
+2017-07-15 15:06:32,400 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-15 15:06:32,530 - DEBUG - https://i.imgur.com:443 "GET /pYVAUgQb.jpg HTTP/1.1" 200 10138
+2017-07-15 15:06:32,536 - DEBUG - SHIFT_JIS Japanese prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - EUC-JP Japanese prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - GB2312 Chinese prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - EUC-KR Korean prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - CP949 Korean prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - Big5 Chinese prober hit error at byte 0
+2017-07-15 15:06:32,536 - DEBUG - EUC-TW Taiwan prober hit error at byte 0
+2017-07-15 15:06:32,645 - DEBUG - windows-1251 Russian confidence = 0.04480593277329766
+2017-07-15 15:06:32,647 - DEBUG - KOI8-R Russian confidence = 0.054420259896846006
+2017-07-15 15:06:32,647 - DEBUG - ISO-8859-5 Russian confidence = 0.04539982405877442
+2017-07-15 15:06:32,647 - DEBUG - MacCyrillic Russian confidence = 0.0404407374365648
+2017-07-15 15:06:32,647 - DEBUG - IBM866 Russian confidence = 0.039784862682591585
+2017-07-15 15:06:32,647 - DEBUG - IBM855 Russian confidence = 0.04351254140944852
+2017-07-15 15:06:32,647 - DEBUG - ISO-8859-7 Greek confidence = 0.06681972248464656
+2017-07-15 15:06:32,647 - DEBUG - windows-1253 Greek confidence = 0.06955993977827916
+2017-07-15 15:06:32,647 - DEBUG - ISO-8859-5 Bulgairan confidence = 0.046288405612278996
+2017-07-15 15:06:32,647 - DEBUG - windows-1251 Bulgarian confidence = 0.04367908273092375
+2017-07-15 15:06:32,647 - DEBUG - TIS-620 Thai confidence = 0.042061218018088015
+2017-07-15 15:06:32,647 - DEBUG - ISO-8859-9 Turkish confidence = 0.0366162953577521
+2017-07-15 15:06:32,647 - DEBUG - windows-1255 Hebrew confidence = 0.0
+2017-07-15 15:06:32,647 - DEBUG - windows-1255 Hebrew confidence = 0.045529679118553185
+2017-07-15 15:06:32,647 - DEBUG - windows-1255 Hebrew confidence = 0.04493060439330907
+2017-07-15 15:06:32,647 - DEBUG - no probers hit minimum threshold
+2017-07-15 15:06:32,648 - DEBUG - utf-8  confidence = 0.010000000000000009
+2017-07-15 15:06:32,648 - DEBUG - SHIFT_JIS Japanese confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - EUC-JP Japanese confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - GB2312 Chinese confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - EUC-KR Korean confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - CP949 Korean confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - Big5 Chinese confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - EUC-TW Taiwan confidence = 0.01
+2017-07-15 15:06:32,648 - DEBUG - windows-1251 Russian confidence = 0.04480593277329766
+2017-07-15 15:06:32,648 - DEBUG - KOI8-R Russian confidence = 0.054420259896846006
+2017-07-15 15:06:32,648 - DEBUG - ISO-8859-5 Russian confidence = 0.04539982405877442
+2017-07-15 15:06:32,648 - DEBUG - MacCyrillic Russian confidence = 0.0404407374365648
+2017-07-15 15:06:32,648 - DEBUG - IBM866 Russian confidence = 0.039784862682591585
+2017-07-15 15:06:32,648 - DEBUG - IBM855 Russian confidence = 0.04351254140944852
+2017-07-15 15:06:32,648 - DEBUG - ISO-8859-7 Greek confidence = 0.06681972248464656
+2017-07-15 15:06:32,648 - DEBUG - windows-1253 Greek confidence = 0.06955993977827916
+2017-07-15 15:06:32,648 - DEBUG - ISO-8859-5 Bulgairan confidence = 0.046288405612278996
+2017-07-15 15:06:32,648 - DEBUG - windows-1251 Bulgarian confidence = 0.04367908273092375
+2017-07-15 15:06:32,648 - DEBUG - TIS-620 Thai confidence = 0.042061218018088015
+2017-07-15 15:06:32,648 - DEBUG - ISO-8859-9 Turkish confidence = 0.0366162953577521
+2017-07-15 15:06:32,649 - DEBUG - windows-1255 Hebrew confidence = 0.0
+2017-07-15 15:06:32,649 - DEBUG - windows-1255 Hebrew confidence = 0.045529679118553185
+2017-07-15 15:06:32,649 - DEBUG - windows-1255 Hebrew confidence = 0.04493060439330907
+2017-07-15 15:06:32,649 - DEBUG - windows-1255 Hebrew confidence = 0.04493060439330907
+2017-07-16 15:46:08,805 - DEBUG - POST http://127.0.0.1:51256/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 15:46:11,411 - DEBUG - Finished Request
+2017-07-16 15:46:11,412 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/url {"url": "https://imgur.com", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:16,496 - DEBUG - Finished Request
+2017-07-16 15:46:20,500 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/element {"using": "class name", "value": "icon-search", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:20,509 - DEBUG - Finished Request
+2017-07-16 15:46:20,510 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 15:46:20,510 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="3FB026FB-2424-4E86-9BC0-702B37D17BF7", element="node-F5F2720B-72A8-4171-B1C0-387CFDE03671")>
+Clicking search!
+2017-07-16 15:46:20,510 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/element/node-F5F2720B-72A8-4171-B1C0-387CFDE03671/click {"id": "node-F5F2720B-72A8-4171-B1C0-387CFDE03671", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:20,580 - DEBUG - Finished Request
+2017-07-16 15:46:20,580 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/element/node-F5F2720B-72A8-4171-B1C0-387CFDE03671/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-F5F2720B-72A8-4171-B1C0-387CFDE03671", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:20,760 - DEBUG - Finished Request
+2017-07-16 15:46:24,765 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/elements {"using": "class name", "value": "image-list-link", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:24,771 - DEBUG - Finished Request
+2017-07-16 15:46:24,771 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 15:46:24,772 - DEBUG - POST http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/element/node-45490276-534B-4377-A1E8-978F1D1B21B5/element {"using": "css selector", "value": "img", "id": "node-45490276-534B-4377-A1E8-978F1D1B21B5", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:24,776 - DEBUG - Finished Request
+2017-07-16 15:46:24,777 - DEBUG - GET http://127.0.0.1:51256/session/3FB026FB-2424-4E86-9BC0-702B37D17BF7/element/node-D2C0F9FE-501E-41C3-9BFE-87A518CB787E/attribute/src {"name": "src", "id": "node-D2C0F9FE-501E-41C3-9BFE-87A518CB787E", "sessionId": "3FB026FB-2424-4E86-9BC0-702B37D17BF7"}
+2017-07-16 15:46:24,781 - DEBUG - Finished Request
+2017-07-16 16:00:56,408 - DEBUG - POST http://127.0.0.1:51474/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:00:56,979 - DEBUG - Finished Request
+2017-07-16 16:00:56,979 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/url {"url": "https://imgur.com", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:02,239 - DEBUG - Finished Request
+2017-07-16 16:01:06,242 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/element {"using": "class name", "value": "icon-search", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:06,250 - DEBUG - Finished Request
+2017-07-16 16:01:06,250 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:01:06,250 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="235BD6BC-35CB-47A6-8B68-E75115E511C0", element="node-A901C561-FDE0-4C9F-AE31-CD2BDCFA9993")>
+Clicking search!
+2017-07-16 16:01:06,250 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/element/node-A901C561-FDE0-4C9F-AE31-CD2BDCFA9993/click {"id": "node-A901C561-FDE0-4C9F-AE31-CD2BDCFA9993", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:06,265 - DEBUG - Finished Request
+2017-07-16 16:01:06,265 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/element/node-A901C561-FDE0-4C9F-AE31-CD2BDCFA9993/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-A901C561-FDE0-4C9F-AE31-CD2BDCFA9993", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:06,436 - DEBUG - Finished Request
+2017-07-16 16:01:10,442 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/elements {"using": "class name", "value": "image-list-link", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:10,449 - DEBUG - Finished Request
+2017-07-16 16:01:10,449 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:01:10,449 - DEBUG - POST http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/element/node-11131098-2DEF-4AD8-B608-693B5CF3AD50/element {"using": "css selector", "value": "img", "id": "node-11131098-2DEF-4AD8-B608-693B5CF3AD50", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:10,454 - DEBUG - Finished Request
+2017-07-16 16:01:10,454 - DEBUG - GET http://127.0.0.1:51474/session/235BD6BC-35CB-47A6-8B68-E75115E511C0/element/node-9B616E52-C892-4478-8297-3E20562D5C0E/attribute/src {"name": "src", "id": "node-9B616E52-C892-4478-8297-3E20562D5C0E", "sessionId": "235BD6BC-35CB-47A6-8B68-E75115E511C0"}
+2017-07-16 16:01:10,458 - DEBUG - Finished Request
+2017-07-16 16:02:23,385 - DEBUG - POST http://127.0.0.1:51534/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:02:23,959 - DEBUG - Finished Request
+2017-07-16 16:02:23,960 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/url {"url": "https://imgur.com", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:32,532 - DEBUG - Finished Request
+2017-07-16 16:02:36,538 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/element {"using": "class name", "value": "icon-search", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:36,545 - DEBUG - Finished Request
+2017-07-16 16:02:36,545 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:02:36,545 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="325C725C-DE9B-44DF-9C5D-97B22BD38DF4", element="node-CDEFE111-A43C-45B3-9B78-6BB24E799955")>
+Clicking search!
+2017-07-16 16:02:36,545 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/element/node-CDEFE111-A43C-45B3-9B78-6BB24E799955/click {"id": "node-CDEFE111-A43C-45B3-9B78-6BB24E799955", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:36,559 - DEBUG - Finished Request
+2017-07-16 16:02:36,560 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/element/node-CDEFE111-A43C-45B3-9B78-6BB24E799955/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-CDEFE111-A43C-45B3-9B78-6BB24E799955", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:36,774 - DEBUG - Finished Request
+2017-07-16 16:02:40,780 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/elements {"using": "class name", "value": "image-list-link", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:40,787 - DEBUG - Finished Request
+2017-07-16 16:02:40,787 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:02:40,787 - DEBUG - POST http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/element/node-DAFE20AC-B849-426A-863B-D439CE5EDC07/element {"using": "css selector", "value": "img", "id": "node-DAFE20AC-B849-426A-863B-D439CE5EDC07", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:40,791 - DEBUG - Finished Request
+2017-07-16 16:02:40,792 - DEBUG - GET http://127.0.0.1:51534/session/325C725C-DE9B-44DF-9C5D-97B22BD38DF4/element/node-62EA1C91-C387-45E3-8464-BF6AEF7DA0C6/attribute/src {"name": "src", "id": "node-62EA1C91-C387-45E3-8464-BF6AEF7DA0C6", "sessionId": "325C725C-DE9B-44DF-9C5D-97B22BD38DF4"}
+2017-07-16 16:02:40,796 - DEBUG - Finished Request
+2017-07-16 16:02:40,796 - DEBUG - Image Source: https://i.imgur.com/Mj5VsgTb.jpg
+2017-07-16 16:02:40,802 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-16 16:02:41,009 - DEBUG - https://i.imgur.com:443 "GET /Mj5VsgTb.jpg HTTP/1.1" 200 4177
+2017-07-16 16:04:36,435 - DEBUG - POST http://127.0.0.1:51606/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:04:37,013 - DEBUG - Finished Request
+2017-07-16 16:04:37,014 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/url {"url": "https://imgur.com", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:42,635 - DEBUG - Finished Request
+2017-07-16 16:04:46,636 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/element {"using": "class name", "value": "icon-search", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:46,642 - DEBUG - Finished Request
+2017-07-16 16:04:46,642 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:04:46,642 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="C9A1087F-8859-41C2-BBE4-AA1D77D29C39", element="node-55977DC6-E1A5-47A1-B71E-CBD4A62C8AAF")>
+Clicking search!
+2017-07-16 16:04:46,643 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/element/node-55977DC6-E1A5-47A1-B71E-CBD4A62C8AAF/click {"id": "node-55977DC6-E1A5-47A1-B71E-CBD4A62C8AAF", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:46,661 - DEBUG - Finished Request
+2017-07-16 16:04:46,661 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/element/node-55977DC6-E1A5-47A1-B71E-CBD4A62C8AAF/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-55977DC6-E1A5-47A1-B71E-CBD4A62C8AAF", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:47,033 - DEBUG - Finished Request
+2017-07-16 16:04:51,034 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/elements {"using": "class name", "value": "image-list-link", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:51,042 - DEBUG - Finished Request
+2017-07-16 16:04:51,042 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:04:51,042 - DEBUG - POST http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/element/node-0381F694-A68F-498E-A847-07DC00665620/element {"using": "css selector", "value": "img", "id": "node-0381F694-A68F-498E-A847-07DC00665620", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:51,047 - DEBUG - Finished Request
+2017-07-16 16:04:51,047 - DEBUG - GET http://127.0.0.1:51606/session/C9A1087F-8859-41C2-BBE4-AA1D77D29C39/element/node-22614693-B048-453E-840C-4710C7486E97/attribute/src {"name": "src", "id": "node-22614693-B048-453E-840C-4710C7486E97", "sessionId": "C9A1087F-8859-41C2-BBE4-AA1D77D29C39"}
+2017-07-16 16:04:51,051 - DEBUG - Finished Request
+2017-07-16 16:04:51,052 - DEBUG - Image Source: https://i.imgur.com/fihfWkHb.jpg
+2017-07-16 16:04:51,058 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-16 16:04:51,286 - DEBUG - https://i.imgur.com:443 "GET /fihfWkHb.jpg HTTP/1.1" 200 7464
+2017-07-16 16:05:28,466 - DEBUG - POST http://127.0.0.1:51662/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:05:29,038 - DEBUG - Finished Request
+2017-07-16 16:05:29,038 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/url {"url": "https://imgur.com", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:32,388 - DEBUG - Finished Request
+2017-07-16 16:05:36,391 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/element {"using": "class name", "value": "icon-search", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:36,399 - DEBUG - Finished Request
+2017-07-16 16:05:36,399 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:05:36,399 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="588DECD8-DB6B-4844-AA91-94B7D30BCA38", element="node-929701E2-E32F-4240-B644-13F89682626E")>
+Clicking search!
+2017-07-16 16:05:36,399 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/element/node-929701E2-E32F-4240-B644-13F89682626E/click {"id": "node-929701E2-E32F-4240-B644-13F89682626E", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:36,416 - DEBUG - Finished Request
+2017-07-16 16:05:36,416 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/element/node-929701E2-E32F-4240-B644-13F89682626E/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-929701E2-E32F-4240-B644-13F89682626E", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:36,583 - DEBUG - Finished Request
+2017-07-16 16:05:40,589 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/elements {"using": "class name", "value": "image-list-link", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:40,596 - DEBUG - Finished Request
+2017-07-16 16:05:40,596 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:05:40,596 - DEBUG - POST http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/element/node-80E2F745-538D-4616-B7F9-20CE9EB0626A/element {"using": "css selector", "value": "img", "id": "node-80E2F745-538D-4616-B7F9-20CE9EB0626A", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:40,600 - DEBUG - Finished Request
+2017-07-16 16:05:40,601 - DEBUG - GET http://127.0.0.1:51662/session/588DECD8-DB6B-4844-AA91-94B7D30BCA38/element/node-CCEC12CA-29F6-48A4-86E5-35A43457316C/attribute/src {"name": "src", "id": "node-CCEC12CA-29F6-48A4-86E5-35A43457316C", "sessionId": "588DECD8-DB6B-4844-AA91-94B7D30BCA38"}
+2017-07-16 16:05:40,605 - DEBUG - Finished Request
+2017-07-16 16:05:40,605 - DEBUG - Image Source: https://i.imgur.com/Mj5VsgTb.jpg
+2017-07-16 16:05:40,611 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-16 16:05:40,707 - DEBUG - https://i.imgur.com:443 "GET /Mj5VsgTb.jpg HTTP/1.1" 200 4177
+2017-07-16 16:06:33,301 - DEBUG - POST http://127.0.0.1:51724/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:06:33,877 - DEBUG - Finished Request
+2017-07-16 16:06:33,877 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/url {"url": "https://imgur.com", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:37,866 - DEBUG - Finished Request
+2017-07-16 16:06:41,871 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/element {"using": "class name", "value": "icon-search", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:41,879 - DEBUG - Finished Request
+2017-07-16 16:06:41,879 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:06:41,879 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C", element="node-1AF09F7A-78C7-430A-AB66-7D2146FD557F")>
+Clicking search!
+2017-07-16 16:06:41,879 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/element/node-1AF09F7A-78C7-430A-AB66-7D2146FD557F/click {"id": "node-1AF09F7A-78C7-430A-AB66-7D2146FD557F", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:41,898 - DEBUG - Finished Request
+2017-07-16 16:06:41,898 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/element/node-1AF09F7A-78C7-430A-AB66-7D2146FD557F/value {"text": "hello world\n", "value": ["h", "e", "l", "l", "o", " ", "w", "o", "r", "l", "d", "\n"], "id": "node-1AF09F7A-78C7-430A-AB66-7D2146FD557F", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:42,078 - DEBUG - Finished Request
+2017-07-16 16:06:46,081 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/elements {"using": "class name", "value": "image-list-link", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:46,129 - DEBUG - Finished Request
+2017-07-16 16:06:46,129 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:06:46,129 - DEBUG - POST http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/element/node-F8E1027A-5CB9-4F53-B82C-5F6A62C5F6C4/element {"using": "css selector", "value": "img", "id": "node-F8E1027A-5CB9-4F53-B82C-5F6A62C5F6C4", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:46,211 - DEBUG - Finished Request
+2017-07-16 16:06:46,211 - DEBUG - GET http://127.0.0.1:51724/session/5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C/element/node-D7F2EECE-AE32-45E2-89D0-F84DA69F6E69/attribute/src {"name": "src", "id": "node-D7F2EECE-AE32-45E2-89D0-F84DA69F6E69", "sessionId": "5C2C633C-FD93-45F9-9CCE-7AA0F3A5E25C"}
+2017-07-16 16:06:46,215 - DEBUG - Finished Request
+2017-07-16 16:06:46,215 - DEBUG - Image Source: https://i.imgur.com/Mj5VsgTb.jpg
+2017-07-16 16:06:46,221 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-16 16:06:46,340 - DEBUG - https://i.imgur.com:443 "GET /Mj5VsgTb.jpg HTTP/1.1" 200 4177
+2017-07-16 16:09:46,431 - DEBUG - POST http://127.0.0.1:51824/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 16:09:47,016 - DEBUG - Finished Request
+2017-07-16 16:09:47,016 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/url {"url": "https://imgur.com", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:09:54,360 - DEBUG - Finished Request
+2017-07-16 16:09:58,366 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/element {"using": "class name", "value": "icon-search", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:09:58,373 - DEBUG - Finished Request
+2017-07-16 16:09:58,373 - DEBUG - Tried to find: icon-search
+1 times.
+2017-07-16 16:09:58,374 - DEBUG - Icon Element: <selenium.webdriver.remote.webelement.WebElement (session="3787DB68-03BF-4DA3-A721-1F877BD1B0EC", element="node-E0D3EEE4-E740-4F71-B280-4D6C5FE6619A")>
+Clicking search!
+2017-07-16 16:09:58,374 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/element/node-E0D3EEE4-E740-4F71-B280-4D6C5FE6619A/click {"id": "node-E0D3EEE4-E740-4F71-B280-4D6C5FE6619A", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:09:58,444 - DEBUG - Finished Request
+2017-07-16 16:09:58,444 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/element/node-E0D3EEE4-E740-4F71-B280-4D6C5FE6619A/value {"text": "money\n", "value": ["m", "o", "n", "e", "y", "\n"], "id": "node-E0D3EEE4-E740-4F71-B280-4D6C5FE6619A", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:09:58,543 - DEBUG - Finished Request
+2017-07-16 16:10:02,547 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/elements {"using": "class name", "value": "image-list-link", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:10:02,554 - DEBUG - Finished Request
+2017-07-16 16:10:02,554 - DEBUG - Tried to find:image-list-link
+1 times
+2017-07-16 16:10:02,554 - DEBUG - POST http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/element/node-0B8AFEAF-4CDD-4DDB-BAB3-3147D9C6E81B/element {"using": "css selector", "value": "img", "id": "node-0B8AFEAF-4CDD-4DDB-BAB3-3147D9C6E81B", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:10:02,559 - DEBUG - Finished Request
+2017-07-16 16:10:02,559 - DEBUG - GET http://127.0.0.1:51824/session/3787DB68-03BF-4DA3-A721-1F877BD1B0EC/element/node-E059FD42-5F6D-4FFD-975D-C25A52D7E6DA/attribute/src {"name": "src", "id": "node-E059FD42-5F6D-4FFD-975D-C25A52D7E6DA", "sessionId": "3787DB68-03BF-4DA3-A721-1F877BD1B0EC"}
+2017-07-16 16:10:02,563 - DEBUG - Finished Request
+2017-07-16 16:10:02,563 - DEBUG - Image Source: https://i.imgur.com/4AiXzf8b.jpg
+2017-07-16 16:10:02,569 - DEBUG - Starting new HTTPS connection (1): i.imgur.com
+2017-07-16 16:10:02,776 - DEBUG - https://i.imgur.com:443 "GET /4AiXzf8b.jpg HTTP/1.1" 200 9372

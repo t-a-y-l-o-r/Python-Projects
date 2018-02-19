@@ -1,0 +1,9 @@
+ 2017-07-07 15:25:48,625 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:26:00,105 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:29:48,552 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:29:58,455 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:41:19,281 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:41:42,184 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:43:43,745 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 15:57:40,723 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081
+ 2017-07-07 16:14:48,095 - DEBUG - Address: 761 Venus View Drive Vista, Ca 92081

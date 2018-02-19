@@ -1,0 +1,20 @@
+2017-07-16 18:00:42,786 - DEBUG - POST http://127.0.0.1:54926/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 18:00:45,040 - DEBUG - Finished Request
+2017-07-16 18:00:45,041 - DEBUG - POST http://127.0.0.1:54926/session/A4509257-C597-4E97-8F3A-9ABA52E68DD2/url {"url": "https://hotmail.com", "sessionId": "A4509257-C597-4E97-8F3A-9ABA52E68DD2"}
+2017-07-16 18:00:45,480 - DEBUG - Finished Request
+2017-07-16 18:00:45,480 - DEBUG - Website: https://hotmail.com
+Driver: <selenium.webdriver.safari.webdriver.WebDriver (session="A4509257-C597-4E97-8F3A-9ABA52E68DD2")>
+2017-07-16 18:00:49,482 - DEBUG - POST http://127.0.0.1:54926/session/A4509257-C597-4E97-8F3A-9ABA52E68DD2/element {"using": "class name", "value": "placeholder", "sessionId": "A4509257-C597-4E97-8F3A-9ABA52E68DD2"}
+2017-07-16 18:00:49,489 - DEBUG - Finished Request
+2017-07-16 18:00:49,489 - WARNING - Message: An element could not be located on the page using the given search parameters.
+
+2017-07-16 18:01:11,913 - DEBUG - POST http://127.0.0.1:54959/session {"capabilities": {"firstMatch": [], "alwaysMatch": {"browserName": "safari", "version": "", "platform": "MAC"}}, "desiredCapabilities": {"browserName": "safari", "version": "", "platform": "MAC"}}
+2017-07-16 18:01:12,738 - DEBUG - Finished Request
+2017-07-16 18:01:12,738 - DEBUG - POST http://127.0.0.1:54959/session/564EDAE5-4D71-44BC-BA3E-53675D6C144E/url {"url": "https://hotmail.com", "sessionId": "564EDAE5-4D71-44BC-BA3E-53675D6C144E"}
+2017-07-16 18:01:17,311 - DEBUG - Finished Request
+2017-07-16 18:01:17,311 - DEBUG - Website: https://hotmail.com
+Driver: <selenium.webdriver.safari.webdriver.WebDriver (session="564EDAE5-4D71-44BC-BA3E-53675D6C144E")>
+2017-07-16 18:01:21,312 - DEBUG - POST http://127.0.0.1:54959/session/564EDAE5-4D71-44BC-BA3E-53675D6C144E/element {"using": "class name", "value": "placeholder", "sessionId": "564EDAE5-4D71-44BC-BA3E-53675D6C144E"}
+2017-07-16 18:01:21,316 - DEBUG - Finished Request
+2017-07-16 18:01:21,316 - WARNING - Message: A session with id = '564EDAE5-4D71-44BC-BA3E-53675D6C144E' was not found.
+
